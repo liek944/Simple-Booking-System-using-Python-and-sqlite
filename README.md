@@ -1,6 +1,7 @@
 A simple Booking System using Python and Sqlite
 
 You need to install python and tkinter for the GUI.
+use this commands in the terminal:
 pip install tkinter
 pip install tkcalendar
 
